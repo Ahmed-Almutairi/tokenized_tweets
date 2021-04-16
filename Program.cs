@@ -70,7 +70,7 @@ namespace tokenized_tweets
             
             ArrayList arrayList = new ArrayList();
             ArrayList arrayList1 = new ArrayList();
-            tokenizer1(" عتبروها جزءًا من خطة لتصفية الانتقال الديمقراطي.. بيان لمنظمات وأحزاب تونسية يطالب حكومة #المشيشي بإلغاء قرارات تعيين شخصيات إخوانية على رأس مؤسسات إعلامية #العربية ", arrayList, arrayList1);
+            tokenizer1(" It's now Fajer athan time 4:31 am according to London city local time. #London ", arrayList, arrayList1);
             arrayList.Add("HI");
             //Console.WriteLine(arrayList.);
         }
